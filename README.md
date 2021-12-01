@@ -4,7 +4,7 @@
   <b>Pacman game implemented in python.</b>
 </h3>
 
-# About the project
+<h2> About the project</h2>
 <table style="width:100%" align="center">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/83329730/144171477-1a3f14d9-f17e-4e49-bc6a-a7e298895389.png" alt="Starting Window" width="400" height="500"></td>
